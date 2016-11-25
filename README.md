@@ -14,8 +14,8 @@ Run the following commands from your shell.
 
 Project cloning and dependent package installation: 
 
-    git clone git://github.com/cloudinary/cloudinary-django-sample.git    
-    cd cloudinary-django-sample
+    git clone  https://github.com/daxbritto/cloudinary-django1.10-Example.git   
+    cd cloudinary-django1.10-Example
 	  #The below lines can also goto requirement.txt
 	  pip install django
     pip install cloudinary
